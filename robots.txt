@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /mobile_screenshots/
+
+Sitemap: https://www.barberiacasablanca.es/sitemap.xml
